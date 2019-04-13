@@ -1,0 +1,91 @@
+# =============================================================================
+# PYTHON
+# =============================================================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Notebook Files
+.ipynb_checkpoints
+
+# Spyder
+.spyderproject
+
+
+# =============================================================================
+# LATEX
+# =============================================================================
+
+# latex / pdflatex auxiliary files
+*.aux
+*.lof
+*.log
+*.lot
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+
+# Intermediate Documents
+*.dvi
+*-converted-to.*
+
+# Image Files (Keep these commented out for now)
+# *.ps
+# *.eps
+# *.pdf
+
+# Bibliography auxiliary files
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.brf
+*.run.xml
+
+# Build tool auxiliary files
+*.fdb_latexmk
+*.synctex
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
+
+# Beamer
+*.nav
+*.snm
+*.vrb
+
+# Minted
+_minted*
+*.pyg
+
+# =============================================================================
+# DATA / IMAGES
+# =============================================================================
+
+# Specific File Formats
+#*.zip
+#*.gz
+#*.svs
+#*.png
+#*.bif
+#*.tif
+#*.tiff
+
+# Mac Files
+*.DS_Store
+
+# MATLAB Files
+*.asv
+
+# =============================================================================
+# PROJECT-SPECIFIC FILES / DIRECTORIES
+# =============================================================================
+
+
