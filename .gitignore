@@ -34,10 +34,10 @@ __pycache__/
 *.dvi
 *-converted-to.*
 
-# Image Files (Keep these commented out for now)
-# *.ps
-# *.eps
-# *.pdf
+# Image Files
+*.ps
+*.eps
+*.pdf
 
 # Bibliography auxiliary files
 *.bbl
@@ -70,13 +70,13 @@ _minted*
 # =============================================================================
 
 # Specific File Formats
-#*.zip
-#*.gz
-#*.svs
-#*.png
-#*.bif
-#*.tif
-#*.tiff
+*.zip
+*.gz
+*.svs
+*.png
+*.bif
+*.tif
+*.tiff
 
 # Mac Files
 *.DS_Store
@@ -88,4 +88,4 @@ _minted*
 # PROJECT-SPECIFIC FILES / DIRECTORIES
 # =============================================================================
 
-
+data/*
