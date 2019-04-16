@@ -10,6 +10,7 @@ dependencies:
   - pillow
   - scikit-image
   - scikit-learn
+  - torchvision
   - pip:
     - opencv-python==4.1.0.25
     - scipy==1.1.0
